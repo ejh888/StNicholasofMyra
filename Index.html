@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St Nicholas of Myra Byzantine Catholic Church</title>
+    <style>
+        body {
+            font-family: Georgia, serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fefefe;
+            color: #333;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #8B4513;
+            font-size: 2.5em;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #DAA520;
+            padding-bottom: 10px;
+        }
+
+        a {
+            color:  #8B4513;
+        }
+        
+        .church-image {
+            text-align: center;
+            margin: 30px 0;
+        }
+        
+        .church-image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .intro-text {
+            font-size: 1.1em;
+            text-align: justify;
+            margin: 30px 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-left: 4px solid #DAA520;
+        }
+        
+        h2 {
+            color: #8B4513;
+            font-size: 1.8em;
+            margin-top: 15px;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #DAA520;
+            padding-bottom: 5px;
+        }
+        
+        .service-times {
+            background-color: #f0f8ff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        
+        .service-times table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .service-times th, .service-times td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .service-times th {
+            background-color: #DAA520;
+            color: white;
+        }
+        
+        
+        .placeholder-image {
+            width: 100%;
+            height: 300px;
+            background-color: #e0e0e0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #666;
+            border-radius: 8px;
+            font-style: italic;
+        }
+        
+
+        
+        .contact-section {
+            background-color: #fff8dc;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border-left: 4px solid #8B4513;
+        }
+        
+    </style>
+</head>
+<body>
+    <h1>St Nicholas of Myra<br>Byzantine Catholic Church</h1>
+    
+    <div class="church-image">
+        <img src="StNicholasPicFromByzLouisiana.avif" alt="St. Nicholas of Myra Byzantine Catholic Church" />
+    </div>
+    
+    <div class="intro-text">
+        <h2>About us</h2>
+        <p>
+            Welcome to St Nicholas of Myra! We are a mission parish in the <a href="https://archpitt.org/">Byzantine Catholic Metropolitan Church</a> 
+                sui iuris of Pittsburgh and, as such, are in full communion with the Holy See in Rome. 
+        </p>   
+
+        <p>
+            We welcome all to join us for Divine Liturgy (Mass), to "Come and see!" the love of Christ and the beauty of His church.
+        </p>
+
+        <p>
+            All roman catholics who join us for liturgy 
+                <a href="https://www.catholic.com/qa/are-eastern-masses-valid-should-catholics-receive-communion-at-them">fulfill their sunday obligation</a> 
+                and are welcome to recieve holy communion.
+            Come and experience the depth and beauty of the Catholic Church through Her eastern traditions!
+        </p>
+    </div>
+
+    <div class="service-times">
+        <h2>Service Times</h2>
+        <table>
+            <tr>
+                <th>Service</th>
+                <th>Time</th>
+            </tr>
+            <tr>
+                <td>Sunday Divine Liturgy (mass)</td>
+                <td>10:00 AM</td>
+            </tr>
+            <tr>
+                <td>Holy Day Liturgy</td>
+                <td>Varies, please contact us</td>
+            </tr>
+        </table>
+        
+        <h3 style="color: #8B4513; margin-top: 20px;">During Lent only:</h3>
+        <table>
+            <tr>
+                <th>Service</th>
+                <th>Time</th>
+            </tr>
+            <tr>
+                <td>Presanctified Liturgy</td>
+                <td>Wednesday at 6:00 PM</td>
+            </tr>
+        </table>
+    </div>
+
+        <div class="contact-section">
+        <h2>Visit</h2>
+        <p style="font-size: 1.2em; margin: 10px 0;">
+            <strong>St. Nicholas of Myra Byzantine Catholic Church</strong>
+        </p>
+        <p style="font-size: 1.1em; margin: 5px 0;">
+            2435 South Carrollton Avenue<br>
+            New Orleans, LA 70118
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+            We welcome visitors and new members! If you have questions about our services, would like to learn more about the Byzantine Catholic tradition, or need information about upcoming events, please don't hesitate to reach out.
+        </p>
+        
+        <p>
+            <strong>Phone:</strong> (504) 861-0806<br>
+            <strong>Email:</strong> stnicholasnola@yahoo.com
+        </p>
+        
+        <p>
+            For urgent pastoral care needs or to schedule sacraments, please contact us directly.
+        </p>
+
+        <h2>Social</h2>
+        <p>
+            <strong>Facebook:</strong> <a href="https://www.facebook.com/StNicholasOfMyra">St. Nicholas of Myra Facebook page</a>
+        </p>
+
+    </div>
+
+    <div class="intro-text" style="font-style: italic; text-align: center; background-color: #f0f8ff; border-left: 4px solid #8B4513;">
+        <p style="font-size: 1.2em; margin: 0;">
+            "The contribution that the Christian East can offer us today is immense! We have great need to recover the sense of mystery that remains alive in your liturgies, liturgies that engage the human person in his or her entirety, that sing of the beauty of salvation and evoke a sense of wonder at how God's majesty embraces our human frailty!"
+        </p>
+        <p>
+            -Pope Leo XIII
+        </p>
+    </div>
+
+    
+    
+    <div class="intro-text">
+        <h2>Our History</h2>
+        <p>
+            St. Nicholas of Myra began in 1976 when Father Francis Twardzik celebrated the first Byzantine Divine Liturgy at Notre Dame Seminary to educate students about the diversity in the Universal Catholic Church. 
+            Recognizing the growing interest, Archbishop Philip Hannan gave permission for monthly services.
+        </p>
+        <p>
+            Father Ellis DePriest later received bi-ritual faculties and continued serving the community, 
+            which moved between several locations before being formally established as a mission under St. Nicholas of Myra's patronage in 1984.
+            Over the years, the mission grew with additional priests joining the rotation 
+            and eventually found its permanent home at 2435 South Carrollton Avenue in 1999. 
+        </p>
+        <p>
+            The community faced its greatest challenge when Hurricane Katrina nearly destroyed the church in 2005, forcing temporary relocation and extensive reconstruction.
+            Through leadership changes, including Father Ellis's passing in 2009, the mission persevered.
+        </p>
+        <p>
+            St Nicholas is still at our Carollton Ave location, celebrating the Divine Liturgy every Sunday at our restored church.
+            Our current priest is Father John Brown, and our administrator is Father Deacon Gregory Haddad. 
+        </p>
+    </div>
+    
+
+    <div class="contact-section">
+        <h2>Some resources on Ruthenian Byzantine Catholicism</h2>
+
+        <ul>
+            <li><a href="https://www.archpitt.org/" target="_blank">Byzantine Catholic Archeparchy of Pittsburgh</a></li>
+            <li><a href="https://www.byzantines.net/" target="_blank">Byzantines.net - Byzantine Catholic Resources</a></li>
+            <li><a href="https://www.ewtn.com/catholicism/library/eastern-catholic-churches-11575" target="_blank">EWTN - Eastern Catholic Churches</a></li>
+            <li><a href="https://www.usccb.org/committees/ecumenical-interreligious-affairs/eastern-catholic-churches" target="_blank">USCCB - Eastern Catholic Churches</a></li>
+            <li><a href="https://www.vatican.va/content/vatican/en/vatican-news/all-news/2021/06/pope-francis-eastern-catholic-churches.html" target="_blank">Vatican News - Eastern Catholic Churches</a></li>
+        </ul>
+    </div>
+</body>
+</html>
